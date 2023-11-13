@@ -1,5 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
 the thoughts are catching up
----------------------------
+- ---------------------------
 I am DrAnglerfish
 I am in control of my PGP Key
 today is 11/13/23
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQQm44AlOQHvS5EXXwM7j0N8Xw5sxgUCZVJ9ygAKCRA7j0N8Xw5s
+xkvGAQCbiXk7dX1TfdfBK4VW1sQFtpNnRO2H1/1QetwoFeapVQD/SLTW652x8IdH
+8O2YCT2BV/glOoBpyvG42Q7C+KhnngQ=
+=XihW
+-----END PGP SIGNATURE-----
